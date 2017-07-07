@@ -1,0 +1,13 @@
+{
+  "name": "hook-test",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "hook": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.18"
+  }
+}
